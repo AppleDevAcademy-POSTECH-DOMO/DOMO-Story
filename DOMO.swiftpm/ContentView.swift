@@ -11,7 +11,7 @@ struct ContentView: View {
     let name = "도모쿤♫~♪~!"
     // 대사
     let script = "제가 알기론 라면은 일반 가정에서도 손쉽게 해먹을 수 있어서 \n게으른 서민들에게 인기가 매우 높다고 들었습니다만? 틀렸습니까?"
-    var test = "hi"
+    var test = "add account ocean"
     var body: some View {
         ZStack {
             // 배경 사진
